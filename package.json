@@ -4,7 +4,7 @@
   "description": "Une API REST pour gérer l'ensemble des opérations d'une école, y compris les étudiants, les enseignants, les cours et les notes.",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
