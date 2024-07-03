@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ananijoel/node-school-api/issues"
   },
-  "homepage": "https://github.com/ananijoel/node-school-api#readme"
+  "homepage": "https://github.com/ananijoel/node-school-api#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
