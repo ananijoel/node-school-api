@@ -1,0 +1,19 @@
+{
+  "name": "school-api",
+  "version": "1.0.0",
+  "description": "Une API REST pour gérer l'ensemble des opérations d'une école, y compris les étudiants, les enseignants, les cours et les notes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananijoel/node-school-api.git"
+  },
+  "author": "anani anatide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananijoel/node-school-api/issues"
+  },
+  "homepage": "https://github.com/ananijoel/node-school-api#readme"
+}
